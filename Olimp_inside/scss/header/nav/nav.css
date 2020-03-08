@@ -1,0 +1,25 @@
+nav {
+  flex-grow: 2;
+  display: flex;
+  align-items: center; }
+
+.nav {
+  margin-left: 10px;
+  margin-right: 0;
+  display: inline-block; }
+
+.nav__item {
+  list-style-type: none;
+  width: 120px;
+  float: left; }
+
+.text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 23px;
+  text-align: center;
+  letter-spacing: 0.15px;
+  color: #FFFFFF; }
+
+/*# sourceMappingURL=nav.css.map */

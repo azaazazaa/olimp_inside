@@ -1,0 +1,15 @@
+{
+  "name": "olimp_inside",
+  "version": "1.0.0",
+  "description": "Olimp inside gulp.js test",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olimp-web/olimp_inside_ui.git"
+  },
+  "author": "Kirill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olimp-web/olimp_inside_ui/issues"
+  },
+  "homepage": "https://github.com/olimp-web/olimp_inside_ui#readme"
+}
